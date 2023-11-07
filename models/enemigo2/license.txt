@@ -1,0 +1,11 @@
+Model Information:
+* title:	space nave navy
+* source:	https://sketchfab.com/3d-models/space-nave-navy-c2de1f749c04423097f1fe010bb6669b
+* author:	uriel_desing (https://sketchfab.com/thailineolivera)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "space nave navy" (https://sketchfab.com/3d-models/space-nave-navy-c2de1f749c04423097f1fe010bb6669b) by uriel_desing (https://sketchfab.com/thailineolivera) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

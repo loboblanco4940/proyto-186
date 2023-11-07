@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nave espacial ultrassônica
+* source:	https://sketchfab.com/3d-models/nave-espacial-ultrassonica-0bf539308f394d82838f81535ad00340
+* author:	pbk (https://sketchfab.com/Rafael_Oliveira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nave espacial ultrassônica" (https://sketchfab.com/3d-models/nave-espacial-ultrassonica-0bf539308f394d82838f81535ad00340) by pbk (https://sketchfab.com/Rafael_Oliveira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

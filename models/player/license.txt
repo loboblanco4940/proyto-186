@@ -1,0 +1,11 @@
+Model Information:
+* title:	SpaceShip
+* source:	https://sketchfab.com/3d-models/spaceship-2c8037988d104ddfb1c237364adae38f
+* author:	Thales Sardinha (https://sketchfab.com/Thales_Sardinha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SpaceShip" (https://sketchfab.com/3d-models/spaceship-2c8037988d104ddfb1c237364adae38f) by Thales Sardinha (https://sketchfab.com/Thales_Sardinha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
